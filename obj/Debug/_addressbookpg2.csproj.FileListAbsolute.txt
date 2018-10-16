@@ -1,0 +1,9 @@
+c:\users\huliaaaa\documents\visual studio 2015\Projects\_addressbookpg2\_addressbookpg2\bin\Debug\_addressbookpg2.exe.config
+c:\users\huliaaaa\documents\visual studio 2015\Projects\_addressbookpg2\_addressbookpg2\bin\Debug\_addressbookpg2.exe
+c:\users\huliaaaa\documents\visual studio 2015\Projects\_addressbookpg2\_addressbookpg2\bin\Debug\_addressbookpg2.pdb
+c:\users\huliaaaa\documents\visual studio 2015\Projects\_addressbookpg2\_addressbookpg2\obj\Debug\_addressbookpg2.csprojResolveAssemblyReference.cache
+c:\users\huliaaaa\documents\visual studio 2015\Projects\_addressbookpg2\_addressbookpg2\obj\Debug\_addressbookpg2.exe
+c:\users\huliaaaa\documents\visual studio 2015\Projects\_addressbookpg2\_addressbookpg2\obj\Debug\_addressbookpg2.pdb
+C:\Users\Huliaaaa\Desktop\PG2(2)\_addressbookpg2\bin\Debug\_addressbookpg2.exe.config
+C:\Users\Huliaaaa\Desktop\PG2(2)\_addressbookpg2\obj\Debug\_addressbookpg2.exe
+C:\Users\Huliaaaa\Desktop\PG2(2)\_addressbookpg2\obj\Debug\_addressbookpg2.pdb
